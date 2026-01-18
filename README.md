@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Christover Ramanda Moa
 
-⚠️ **Work Account**
+⚠️ **Work Account**<br>
 This GitHub account (**@ChristoverMoa**) is an official work account used by **@tophermoa** during employment at **Digital Animasi Asia**.
 
 ### 🏢 About This Account
@@ -14,7 +14,7 @@ This GitHub account (**@ChristoverMoa**) is an official work account used by **@
 All personal projects, open‑source contributions, and public experiments are maintained on the primary **GitHub account**:
 <a href="https://github.com/tophermoa">
 
-[![GitHub](https://img.shields.io/badge/tophermoa-Github%20Account-black?logo=github)](https://github.com/ChristoverMoa)
+[![GitHub](https://img.shields.io/badge/tophermoa-Personal%20Account-black?logo=github)](https://github.com/tophermoa)
 </a>
 
 ### ℹ️ Notes
@@ -54,6 +54,15 @@ All personal projects, open‑source contributions, and public experiments are m
 
 ### 🏗 Commits
 
+![3D-Graph-Contribution](https://raw.githubusercontent.com/ChristoverMoa/ChristoverMoa/main/profile-3d-contrib/profile-night-view.svg)
+
 ### ⚒ Project I've Contributed To
+<a href="https://github.com/digimaASIA/moleawiz_web">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=digimaASIA&repo=moleawiz_web&theme=dark&hide_border=true&icon_color=F8D866" alt="moleawiz_web">
+</a>
+
+<a href="https://github.com/digimaASIA/moleawiz-reminder-engine">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=digimaASIA&repo=moleawiz-reminder-engine&theme=dark&hide_border=true&icon_color=F8D866" alt="CheatSheets-for-Developers">
+</a>
 
 `This profile exists for clarity and transparency between personal and professional GitHub usage.`
