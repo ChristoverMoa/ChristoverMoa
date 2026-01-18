@@ -8,7 +8,7 @@ This GitHub account (**@ChristoverMoa**) is an official work account used by **@
 2. **Used for**:
     - Internal projects
     - Company repositories
-    - Collaboration within Digital Animasi Asia
+    - Collaboration within **Digital Animasi Asia**
 3. **Not used for personal open‑source activities**
 
 All personal projects, open‑source contributions, and public experiments are maintained on the primary **GitHub account**:
