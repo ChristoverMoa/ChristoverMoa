@@ -56,13 +56,4 @@ All personal projects, open‑source contributions, and public experiments are m
 
 ![3D-Graph-Contribution](https://raw.githubusercontent.com/ChristoverMoa/ChristoverMoa/main/profile-3d-contrib/profile-night-view.svg)
 
-### ⚒ Project I've Contributed To
-<a href="https://github.com/digimaASIA/moleawiz_web">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=digimaASIA&repo=moleawiz_web&theme=dark&hide_border=true&icon_color=F8D866" alt="moleawiz_web">
-</a>
-
-<a href="https://github.com/digimaASIA/moleawiz-reminder-engine">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=digimaASIA&repo=moleawiz-reminder-engine&theme=dark&hide_border=true&icon_color=F8D866" alt="CheatSheets-for-Developers">
-</a>
-
 `This profile exists for clarity and transparency between personal and professional GitHub usage.`
